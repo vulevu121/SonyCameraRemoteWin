@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\src\SonyCameraRemoteWin\app\CameraDevice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\SonyCameraRemoteWin\app\ConnectionInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\SonyCameraRemoteWin\app\PropertyValueTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\SonyCameraRemoteWin\app\RemoteCli.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\SonyCameraRemoteWin\app\Text.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\SonyCameraRemoteWin\app\MessageDefine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\src\SonyCameraRemoteWin\app\CameraDevice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\SonyCameraRemoteWin\app\ConnectionInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\SonyCameraRemoteWin\app\PropertyValueTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\SonyCameraRemoteWin\app\Text.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\SonyCameraRemoteWin\app\MessageDefine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\SonyCameraRemoteWin\app\CRSDK\CameraRemote_SDK.h">
+      <Filter>CRSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\SonyCameraRemoteWin\app\CRSDK\CrCommandData.h">
+      <Filter>CRSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\SonyCameraRemoteWin\app\CRSDK\CrDefines.h">
+      <Filter>CRSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\SonyCameraRemoteWin\app\CRSDK\CrDeviceProperty.h">
+      <Filter>CRSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\SonyCameraRemoteWin\app\CRSDK\CrError.h">
+      <Filter>CRSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\SonyCameraRemoteWin\app\CRSDK\CrImageDataBlock.h">
+      <Filter>CRSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\SonyCameraRemoteWin\app\CRSDK\CrTypes.h">
+      <Filter>CRSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\SonyCameraRemoteWin\app\CRSDK\ICrCameraObjectInfo.h">
+      <Filter>CRSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\SonyCameraRemoteWin\app\CRSDK\IDeviceCallback.h">
+      <Filter>CRSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\app\CLI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\app\clipp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\src\SonyCameraRemoteWin\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CRSDK">
+      <UniqueIdentifier>{333F490E-6868-328C-87BA-C6DC8E1856D3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{45C44B7B-BAA6-364F-B933-D7DE5499AAF7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{758A9BA7-6A4D-3279-9080-15B3A5BDC235}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+build/Release/
+build/Debug/
+build/RemoteCli.dir/
+build/x64

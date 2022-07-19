@@ -1,0 +1,4 @@
+C:/src/SonyCameraRemoteWin/build/CMakeFiles/RemoteCli.dir
+C:/src/SonyCameraRemoteWin/build/CMakeFiles/INSTALL.dir
+C:/src/SonyCameraRemoteWin/build/CMakeFiles/ALL_BUILD.dir
+C:/src/SonyCameraRemoteWin/build/CMakeFiles/ZERO_CHECK.dir

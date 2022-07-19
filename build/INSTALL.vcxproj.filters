@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\src\SonyCameraRemoteWin\build\CMakeFiles\4183505a13ec6f97665b140e5d554400\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C2FC0AE3-5B64-3210-8E9A-B34630EBE937}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
