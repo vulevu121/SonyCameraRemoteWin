@@ -1,4 +1,4 @@
-# SonyCameraRemoteWin
+# SonyCameraRemoteWin - Sony Camera CLI for Windows
 
 This is a command-line interface for controlling new Sony cameras such as Sony Alpha 7C. Based on Sony Camera Remote SDK v1.05.
 
