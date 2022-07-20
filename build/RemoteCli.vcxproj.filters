@@ -63,12 +63,6 @@
     <ClInclude Include="C:\src\SonyCameraRemoteWin\app\CRSDK\IDeviceCallback.h">
       <Filter>CRSDK</Filter>
     </ClInclude>
-    <ClInclude Include="..\app\CLI.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\app\clipp.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\src\SonyCameraRemoteWin\CMakeLists.txt" />

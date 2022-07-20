@@ -116,8 +116,7 @@
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PreBuildEvent>
-      <Message>
-      </Message>
+      <Message></Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/src/SonyCameraRemoteWin/external/crsdk C:/src/SonyCameraRemoteWin/build/Debug
 if %errorlevel% neq 0 goto :cmEnd
@@ -174,8 +173,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PreBuildEvent>
-      <Message>
-      </Message>
+      <Message></Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/src/SonyCameraRemoteWin/external/crsdk C:/src/SonyCameraRemoteWin/build/Release
 if %errorlevel% neq 0 goto :cmEnd
@@ -232,8 +230,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PreBuildEvent>
-      <Message>
-      </Message>
+      <Message></Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/src/SonyCameraRemoteWin/external/crsdk C:/src/SonyCameraRemoteWin/build/MinSizeRel
 if %errorlevel% neq 0 goto :cmEnd
@@ -289,8 +286,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PreBuildEvent>
-      <Message>
-      </Message>
+      <Message></Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/src/SonyCameraRemoteWin/external/crsdk C:/src/SonyCameraRemoteWin/build/RelWithDebInfo
 if %errorlevel% neq 0 goto :cmEnd
@@ -373,8 +369,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\app\CLI.h" />
-    <ClInclude Include="..\app\clipp.h" />
     <ClInclude Include="C:\src\SonyCameraRemoteWin\app\CameraDevice.h" />
     <ClInclude Include="C:\src\SonyCameraRemoteWin\app\ConnectionInfo.h" />
     <ClInclude Include="C:\src\SonyCameraRemoteWin\app\PropertyValueTable.h" />
